@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "BNYs+zyvbeRiCw5HXRIc5aP9a3bYRaDuMl2X+MNNElw=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
