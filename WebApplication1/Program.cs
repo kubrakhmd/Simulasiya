@@ -16,13 +16,13 @@ namespace WebApplication1
             var app = builder.Build();
             
             app.UseStaticFiles();
-          
+            app.UseRouting();
             app.MapControllerRoute(
                "admin",
-               "{area:exists}/{contreller=home}/{action=index}/{id?}");
+               "{area:exists}/{controller=home}/{action=index}/{id?}");
            app.MapControllerRoute(
                 "default",
-                "{contreller=home}/{action=index}/{id?}"
+                "{controller=home}/{action=index}/{id?}"
                 );
             app.Run();
         }

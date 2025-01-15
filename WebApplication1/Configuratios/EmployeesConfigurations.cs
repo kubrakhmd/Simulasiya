@@ -4,9 +4,9 @@ using WebApplication1.Models;
 
 namespace WebApplication1.Configuratios
 {
-    public class EmployeesConfigurations:IEntityTypeConfiguration<Employees>
+    public class EmployeesConfigurations:IEntityTypeConfiguration<Employee>
     {
-        public void Configure(EntityTypeBuilder<Employees> builder)
+        public void Configure(EntityTypeBuilder<Employee> builder)
         {
             builder.Property(a => a.Name)
                 .IsRequired()

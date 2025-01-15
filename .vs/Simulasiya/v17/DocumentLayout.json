@@ -1,65 +1,145 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\",
+  "WorkspaceRootPath": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\migrations\\20250113135739_createdepatmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250113135739_createdepatmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\viewmodels\\department\\updatedepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\viewmodels\\department\\updatedepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\viewmodels\\department\\getdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\viewmodels\\department\\getdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\viewmodels\\department\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\viewmodels\\department\\createdepartmentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\viewmodels\\employee\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\configuratios\\departmentsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\configuratios\\departmentsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\configuratios\\employeesconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\configuratios\\employeesconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\configuratios\\employeesconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\configuratios\\employeesconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\configuratios\\departmentsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\configuratios\\departmentsconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ll novbe\\desktop\\imtahan\\simulasiya\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\migrations\\20250113135739_createdepatmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250113135739_createdepatmentstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|c:\\users\\kubra\\onedrive\\desktop\\simulasiya\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8749FC4D-8C45-432F-9E87-2B97C1F3C05D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -70,72 +150,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250113135739_CreateDepatmentsTable.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "WebApplication1\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:57:39.61Z",
+              "WhenOpened": "2025-01-15T07:02:12.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA/wAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:43:58.135Z",
+              "WhenOpened": "2025-01-15T07:01:42.176Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DepartmentsConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
-              "RelativeToolTip": "WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:34:37.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication1\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:13:24.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:57:36.991Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -143,137 +188,409 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:45:53.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-13T11:52:09.325Z",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:51:33.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:37:42.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Departments.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Models\\Departments.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Departments.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Models\\Departments.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Departments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:50:38.975Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:50:40.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Employees.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Models\\Employees.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Employees.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Models\\Employees.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Employees.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T20:33:09.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\ViewModels\\Employee\\CreateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:50:23.079Z",
+              "WhenOpened": "2025-01-14T19:40:45.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAFUAAAAgdY0r+lkswBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:36:47.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:16:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\ViewModels\\Department\\UpdateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:40:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\ViewModels\\Department\\GetDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:39:49.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "EmployeesConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
-              "RelativeToolTip": "WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "CreateDepartmentVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\ViewModels\\Department\\CreateDepartmentVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:45:10.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-13T11:45:13.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T11:44:03.446Z",
+              "WhenOpened": "2025-01-14T19:40:00.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T11:43:27.352Z",
+              "Title": "GetEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\ViewModels\\Employee\\GetEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAABw4en8yU4UwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:40:30.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:57:36.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABABAAAAAAAAAAAAwDIBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:47:58.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPUAAAAAAAAAAADwv+oAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:38:23.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:36:31.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:38:45.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:28:19.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:40:56.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T19:38:32.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJUAAAAAAAAAAADwvxgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:27:32.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:45:53.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:43:58.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T11:43:27.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:50:23.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:13:24.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T11:52:09.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeesConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
+              "RelativeToolTip": "WebApplication1\\Configuratios\\EmployeesConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:45:10.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartmentsConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
+              "RelativeToolTip": "WebApplication1\\Configuratios\\DepartmentsConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:34:37.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T11:44:03.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250113135739_CreateDepatmentsTable.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250113135739_CreateDepatmentsTable.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:57:39.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:37:42.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:50:38.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-13T11:45:13.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\ll novbe\\Desktop\\imtahan\\Simulasiya\\WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\Simulasiya\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-13T11:41:25.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-01-13T11:41:25.557Z"
             }
           ]
         }

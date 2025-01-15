@@ -4,7 +4,7 @@ namespace WebApplication1.ViewModels
 {
     public class HomeVM
     {
-        public List<Employees> Employees { get; set; }
+        public List<Employee> Employees { get; set; }
 
     }
 }

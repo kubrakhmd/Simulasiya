@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebApplication1.DAL;
+using WebApplication1.Models;
 using WebApplication1.ViewModels;
 
 namespace WebApplication1.Controllers
@@ -13,13 +14,14 @@ namespace WebApplication1.Controllers
             _context = context;
         }
         public IActionResult Index()
+        { HomeVM homeVM = new HomeVM
         {
-            HomeVM homeVM = new
-            {
-                Employees=_context.Employees.OrderBy(s=>s.Order)
 
-            };
-            return View();
+            Employees=_context.Employees.OrderBy(e=>e.Id).Take(2).ToList()
+
+        };
+          
+            return View(homeVM);
         }
     }
 }

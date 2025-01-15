@@ -7,8 +7,8 @@ namespace WebApplication1.DAL
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
-        public DbSet<Employees> Employees { get; set; }
-        public DbSet<Departments> Departments { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Department> Departments { get; set; }
 
     }
 }
