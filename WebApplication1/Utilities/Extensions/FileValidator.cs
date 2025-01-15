@@ -1,22 +1,16 @@
 ﻿using mamba.Utilities.Enums;
-
-namespace mamba.Utilities.Extensions
-{
-
-
     namespace mamba.Utilities.Extensions
     {
         public static class FileValidator
+    {
+          public static bool ValidateType(this IFormFile file, string type)
         {
-            public static bool ValidateType(this IFormFile file, string type)
+            if (file.ContentType.Contains(type))
             {
-                if (file.ContentType.Contains(type))
-                {
-                    return true;
-                }
-                return false;
+                return true;
             }
-
+            return false;
+        }
             public static bool ValidateSize(this IFormFile file, FileSize fileSize, int size)
             {
                 switch (fileSize)
@@ -29,7 +23,6 @@ namespace mamba.Utilities.Extensions
 
                     case FileSize.GB:
                         return file.Length <= size * 1024 * 1024 * 1024;
-
                 }
                 return false;
             }
@@ -42,7 +35,6 @@ namespace mamba.Utilities.Extensions
                 {
                     path = Path.Combine(path, roots[i]);
                 }
-
                 return path;
             }
 
@@ -63,8 +55,6 @@ namespace mamba.Utilities.Extensions
             public static void DeleteFile(this string fileName, params string[] roots)
             {
                 string path = CombinePaths(roots);
-
-
                 if (File.Exists(path))
                 {
                     File.Delete(path);
@@ -74,8 +64,3 @@ namespace mamba.Utilities.Extensions
         }
     }
 
-
-
-
-
-}
